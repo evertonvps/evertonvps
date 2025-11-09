@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Everton, For over a decade, solving problems with code and drinking beer on good or bad days.
 
-⚙️ I’m currently working at MV (www.mv.com.br)
+⚙️ I’m currently working at Bradesco (www.bradesco.com.br)
 ### Connect with me:
 <a href="https://linkedin.com/in/evertonvieira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evertonvieira" height="30" width="40" /></a>
 </p>
@@ -10,18 +10,24 @@ I'm Everton, For over a decade, solving problems with code and drinking beer on 
 
 ⛏️ What I've been working on
 --- 
-- [go-jasper](https://github.com/evertonvps/go-jasper)
-- [sonarqube-cli](https://github.com/evertonvps/sonarqube-cli)
+- MCP Servers
+- Gen AI
+- Quarkus/Spring boot
+- GO
+- Python
 
 
 👯 I’m looking to collaborate on
 ---
 - golang opensource projects
 - [zaproxy](https://github.com/zaproxy/zaproxy)
+- [go-jasper](https://github.com/evertonvps/go-jasper)
+- [sonarqube-cli](https://github.com/evertonvps/sonarqube-cli)
 
 🌱 I’m currently learning 
 ---
 - golang opensource projects
+- Gen AI
 - kubernetes
 
 
